@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+h4 {
+
+    height: 60px;
+
+}
+
+
+ul {
+
+    margin-left: -25px;
+    margin-right: 50px;
+
+}
+
+
+a {
+
+    text-decoration: none;
+
+}
+
+
+#vinculo {
+
+    color: #6A2D42;
+    font-weight: 550;
+
+}
+
+
+a {
+
+    color: #070707;
+    font-weight: 250;
+
+}
+
+
+#vinculo:hover {
+
+    color: #FE9014;
+
+}
+
+
+a:hover {
+
+    font-weight: 550;
+
+}
+
+
+body {
+
+    text-align: left;
+    background-color: #f3eed8;
+    font-family: "DM Sans";
+    font-weight: 250;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+
+h1 {
+
+    height: 80px;
+    font-size: 100px;
+    color: #6A2D42;
+
+}
+
+
+h1, h2 {
+
+    font-family: "DM Serif Display";
+    margin-left: px;
+  
+}
+
+
+
+h2 {
+
+    color: #070707;
+    font-size: 50px;
+ 
+}
+
+img {
+
+    border-radius: 20%;
+    width: 100%;
+
+}
+
+h3 {
+
+    font-weight: 850;
+    color: #070707;
+    font-size: 30px;
+ 
+}
+
+section {
+
+    font-size: 20px;
+ 
+}
+
+#negrita {
+
+    font-weight: 550;
+ 
+}
+
+
+#italica {
+
+    font-style: italic;
+ 
+}
