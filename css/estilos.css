@@ -126,3 +126,9 @@ section {
     font-style: italic;
  
 }
+
+a:hover {
+
+    font-weight: 250;
+
+}
